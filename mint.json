@@ -15,6 +15,7 @@
       "to": "#53a6ff"
     }
   },
+  "openapi": ["/api-reference/openapi.json"],
   "topbarLinks": [
     {
       "name": "Support",
