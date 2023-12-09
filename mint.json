@@ -56,18 +56,18 @@
     {
       "group": "Profile",
       "pages": [
-        "endpoint/person/get-person-by-url",
-        "endpoint/person/get-person-by-id",
-        "endpoint/person/get-person-by-slug",
-        "endpoint/person/get-person-by-salesnav"
+        "api-reference/endpoint/person/get-person-by-url",
+        "api-reference/endpoint/person/get-person-by-id",
+        "api-reference/endpoint/person/get-person-by-slug",
+        "api-reference/endpoint/person/get-person-by-salesnav"
       ]
     },
     {
       "group": "Company",
       "pages": [
-        "endpoint/company/get-company-by-url",
-        "endpoint/company/get-company-by-id",
-        "endpoint/company/get-company-by-slug"
+        "api-reference/endpoint/company/get-company-by-url",
+        "api-reference/endpoint/company/get-company-by-id",
+        "api-reference/endpoint/company/get-company-by-slug"
       ]
     }
   ],
