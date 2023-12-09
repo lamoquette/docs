@@ -56,7 +56,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["introduction", "api-key","quickstart", "development"]
     },
     {
       "group": "Essentials",
