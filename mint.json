@@ -55,10 +55,10 @@
     {
       "group": "Profile",
       "pages": [
-        "api-reference/endpoint/get-profile-by-url",
-        "api-reference/endpoint/get-profile-by-id",
-        "api-reference/endpoint/get-profile-by-slug",
-        "api-reference/endpoint/get-profile-by-salesnav"
+        "api-reference/endpoint/get-person-by-url",
+        "api-reference/endpoint/get-person-by-id",
+        "api-reference/endpoint/get-person-by-slug",
+        "api-reference/endpoint/get-person-by-salesnav"
       ]
     },
     {
