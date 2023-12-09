@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "https://reversecontact.crisp.help/en/"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://app.reversecontact.com/search"
   },
   "tabs": [
     {
@@ -45,7 +45,12 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://www.scrapin.io/blog"
+    },
+    {
+      "name": "Pricing",
+      "icon": "credit-card",
+      "url": "https://www.scrapin.io/pricing"
     }
   ],
   "navigation": [
