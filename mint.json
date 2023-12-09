@@ -59,7 +59,7 @@
       "pages": ["introduction", "api-key","quickstart", "development"]
     },
     {
-      "group": "Profile",
+      "group": "Person",
       "pages": [
         "api-reference/endpoint/person/get-person-by-url",
         "api-reference/endpoint/person/get-person-by-id",
