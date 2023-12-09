@@ -28,9 +28,19 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://www.scrapin.io/blog"
+    },
+    {
+      "name": "Use Cases",
+      "icon": "trophy",
+      "url": "https://www.reversecontact.com/case-studies"
+    },
+    {
+      "name": "Pricing",
+      "icon": "credit-card",
+      "url": "https://www.scrapin.io/pricing"
     },
     {
       "name": "Community",
@@ -38,14 +48,9 @@
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://www.scrapin.io/blog"
-    },
-    {
-      "name": "Pricing",
-      "icon": "credit-card",
-      "url": "https://www.scrapin.io/pricing"
+      "name": "Github",
+      "icon": "github",
+      "url": "https://mintlify.com/community"
     }
   ],
   "navigation": [
