@@ -58,19 +58,12 @@
         "api-reference/endpoint/get-profile-by-url",
         "api-reference/endpoint/get-profile-by-id",
         "api-reference/endpoint/get-profile-by-slug",
-        "api-reference/endpoint/get-profile-by-salesnav",
-        "api-reference/endpoint/get-company-by-url",
-        "api-reference/endpoint/get-company-by-id",
-        "api-reference/endpoint/get-company-by-slug"
+        "api-reference/endpoint/get-profile-by-salesnav"
       ]
     },
     {
       "group": "Company",
       "pages": [
-        "api-reference/endpoint/get-profile-by-url",
-        "api-reference/endpoint/get-profile-by-id",
-        "api-reference/endpoint/get-profile-by-slug",
-        "api-reference/endpoint/get-profile-by-salesnav",
         "api-reference/endpoint/get-company-by-url",
         "api-reference/endpoint/get-company-by-id",
         "api-reference/endpoint/get-company-by-slug"
